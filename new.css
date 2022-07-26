@@ -1,0 +1,26 @@
+.mySlides{
+        margin-left: 15px;
+        width: 1330px;
+        height: 450px;
+       
+  
+      }
+      .bannar2{ display:grid;
+        grid-template-columns: 1fr 1fr 1fr ;
+        
+    }
+    .d6{background-color: lightgray;
+      ;
+    }
+    .d7{background-color: lightgray;
+       
+        
+        
+    }
+    
+      .d8{background-color: lightgray;
+       
+      }
+      .ahmad{
+        height: 500px;
+      }
